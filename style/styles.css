@@ -15,3 +15,14 @@ p,li{
     line-height: 2;
     letter-spacing: 1px;
 }
+
+a{
+    text-decoration: none;
+    color: #6382c4;
+}
+
+a:hover{
+    color: #154360;
+    text-decoration: underline;
+}
+
