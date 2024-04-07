@@ -32,10 +32,17 @@ p,li{
 a{
     text-decoration: none;
     color: #6382c4;
+   
 }
 
 a:hover{
     color: #154360;
     text-decoration: underline;
+}
+
+img{
+   display: block;
+   margin: 0 auto;
+
 }
 
